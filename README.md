@@ -54,7 +54,8 @@ I decided that web development was what I wanted to start growing professionally
 In the app you can filter tickets, buy them, leave reviews, among other features.
 The technologies used are: NodeJs, Express, Sequelize, JWT, React, Redux, JavaScript, Tailwind.
 
-Video: https://www.youtube.com/watch?v=W5CbpvubvuM&t=26s&ab_channel=JoaquinBoto
+   Video: https://www.youtube.com/watch?v=W5CbpvubvuM&t=26s&ab_channel=JoaquinBoto
+   
 
 - [Videogames App](https://github.com/jonafm14/PI-videogames) : It is a web page that allows you to search and filter Videogames. It also has the function of creating new Videogame. The technologies used are: JavaScript, React, Redux, Express, Sequelize, PostgresSQL, CSS, NodeJS.
 ---
