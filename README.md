@@ -58,6 +58,8 @@ The technologies used are: NodeJs, Express, Sequelize, JWT, React, Redux, JavaSc
    
 
 - [Videogames App](https://github.com/jonafm14/PI-videogames) : It is a web page that allows you to search and filter Videogames. It also has the function of creating new Videogame. The technologies used are: JavaScript, React, Redux, Express, Sequelize, PostgresSQL, CSS, NodeJS.
+
+   Video: https://youtu.be/NilMJFlJyFI
 ---
 
 ## 📫 CONTACT ME
