@@ -51,6 +51,7 @@ In the app you can filter tickets, buy them, leave reviews, among other features
 The technologies used are: NodeJs, Express, Sequelize, JWT, React, Redux, JavaScript, Tailwind.
 
    Deploy: https://tickethenry.vercel.app/
+   
    Video: https://www.youtube.com/watch?v=W5CbpvubvuM&t=26s&ab_channel=JoaquinBoto
    
 
