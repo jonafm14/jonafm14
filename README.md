@@ -6,7 +6,7 @@ I finished the Fullstack Web Development BootCamp at HENRY and I continue to lea
 
 I decided that web development was what I wanted to start growing professionally with.</h3>
 
-- 🎫 I’m currently working on [adminApp](https://github.com/tomasbarcojo/adm-app) proyect and [los teros](https://github.com/EcheCostabel/losteros)
+- 🎫 I’m currently working on [adminApp](https://github.com/tomasbarcojo/adm-app) proyect and [los teros](https://github.com/EcheCostabel/losteros) page
 
 - 📚 I’m currently learning **TypeScript**
 
