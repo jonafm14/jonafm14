@@ -8,8 +8,6 @@ I decided that web development was what I wanted to start growing professionally
 
 - 🎫 I’m currently working on [adminApp](https://github.com/tomasbarcojo/adm-app) proyect and [los teros](https://github.com/EcheCostabel/losteros) page
 
-- 📚 I’m currently learning **TypeScript**
-
 - 📧 How to reach me **jonamusciachio@gmail.com**
 
 ---
