@@ -6,10 +6,6 @@ I finished the Fullstack Web Development BootCamp at HENRY and I continue to lea
 
 I decided that web development was what I wanted to start growing professionally with.</h3>
 
-- 🎫 I’m currently working on [adminApp](https://github.com/tomasbarcojo/adm-app) proyect
-
-- 📧 How to reach me **jonamusciachio@gmail.com**
-
 ---
 
 <h3 align="left">Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h3>
